@@ -17,7 +17,7 @@ input:focus {
 /* Reusable Component - Image Container */
 
 .image-container {
-  display: flex;
+  display: block;
   flex-direction: column;
   justify-content: center;
   overflow: hidden;
