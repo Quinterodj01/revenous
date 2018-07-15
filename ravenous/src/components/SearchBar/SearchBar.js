@@ -27,7 +27,7 @@ export class SearchBar extends React.Component {
   }
   handleTermChange(x){
 this.setState({term: x.target.value});
-console.log(x.target.value);
+
   }
   handleLocationChange(y){
 this.setState({location: y.target.value});
